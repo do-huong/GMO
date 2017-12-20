@@ -154,7 +154,7 @@
 | E21020999 | Failed to 3D secure authentication. Again try again from the purchase screen. 	|
 | E21010201 | I can not be a deal on this card. Please use the card corresponding to the 3D secure authentication. 	|
 | E21010202 | I can not be a deal on this card. Please use the card corresponding to the 3D secure authentication. 	|
-| E31500014 | -	|
+| E31500014 | Request method must be POST, not GET	|
 | E41170002 | Does not correspond to the input card company. Please enter a different card number. 	|
 | E41170099 |	     There is an error in the card number. Please enter to check again. 	|
 | E61010001 | Failed to settlement processing. Sorry please try again from the purchase screen to open some time. 	|
