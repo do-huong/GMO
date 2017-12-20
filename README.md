@@ -1,4 +1,5 @@
-    'E00000000' => 'Không đặc biệt',
+    1. [E00000000](#E00000000)
+    # E00000000 => 'Không đặc biệt',
     'E01010001' => 'cửa hàng ID chưa được xác định. ',
     'E01010008' => 'cửa hàng ID để nếu nó chứa các ký tự khác ngoài các ký tự chữ, dài hơn 13 ký tự. ',
     'E01010010' => 'cửa hàng ID không phù hợp. ',
